@@ -1,10 +1,11 @@
-package com.di.services;
+package com.di.controllers;
 
 import com.di.controllers.PropertyInjectorController;
+import com.di.services.GreetingServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class GreetingServiceImplTest {
+class PropertyInjectorControllerTest {
 
     PropertyInjectorController controller;
 
