@@ -2,7 +2,7 @@ package com.di.controllers;
 
 import com.di.services.GreetingService;
 
-public class GreetingController {
+public class PropertyInjectorController {
 	
 	public GreetingService greetingService;
 	
